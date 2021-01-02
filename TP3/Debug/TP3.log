@@ -1,0 +1,15 @@
+﻿  depense.cpp
+  depenseGroupe.cpp
+  depenseIndividuelle.cpp
+  groupe.cpp
+c:\users\xaoli\source\repos\inf1010_tp3-master\tp3\tp3\groupe.cpp(104): warning C4267: 'initialisation' : conversion de 'size_t' en 'unsigned int', perte possible de données
+c:\users\xaoli\source\repos\inf1010_tp3-master\tp3\tp3\groupe.cpp(107): warning C4244: 'initialisation' : conversion de 'double' en 'unsigned int', perte possible de données
+  main.cpp
+c:\users\xaoli\source\repos\inf1010_tp3-master\tp3\tp3\main.cpp(8): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+  transfert.cpp
+  utilisateur.cpp
+c:\users\xaoli\source\repos\inf1010_tp3-master\tp3\tp3\utilisateur.cpp(51): warning C4267: 'return' : conversion de 'size_t' en 'unsigned int', perte possible de données
+  utilisateurPremium.cpp
+  utilisateurRegulier.cpp
+  Génération de code en cours...
+  TP3.vcxproj -> C:\Users\xaoli\source\repos\INF1010_TP3-master\TP3\x64\Debug\TP3.exe

@@ -1,0 +1,8 @@
+﻿  depense.cpp
+  groupe.cpp
+c:\users\xaoli\source\repos\tp1\tp1\groupe.cpp(29): warning C4018: '<' : incompatibilité signed/unsigned
+  main.cpp
+  transfert.cpp
+  utilisateur.cpp
+  Génération de code en cours...
+  TP1.vcxproj -> C:\Users\xaoli\source\repos\TP1\Debug\TP1.exe
